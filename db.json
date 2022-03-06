@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "3500",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "750",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Piña",
+      "precio": 100,
+      "id": 7
+    },
+    {
+      "nombre": "Kia Rio 2020",
+      "precio": 450000,
+      "id": 9
+    }
+  ]
+}
